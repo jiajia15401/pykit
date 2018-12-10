@@ -1,2 +1,2 @@
-# pykit
-pip pak pykit
+# pywidget
+pip pak pywidget
