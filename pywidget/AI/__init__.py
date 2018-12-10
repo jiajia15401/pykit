@@ -1,4 +1,3 @@
-import importlib
 __all__ = ['ai']
 v = '1.0.0'
 class ai():
@@ -15,7 +14,7 @@ class ai():
         pass
     def think(self):
         self.why()
-    def use_work(self):
+    def work(self):
         now = []
         while True:
             for i in self.add
