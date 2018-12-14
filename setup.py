@@ -11,7 +11,7 @@ setuptools.setup(
     description="a package use to help you coding",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/jiajia15401/pywidget.git",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
