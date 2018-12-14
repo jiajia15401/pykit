@@ -1,4 +1,4 @@
-from pykit.decode import decode
+from pywidget.decode import decode
 class load():
     def __init__(self,path = None,class_def = None):
         self.path = path
