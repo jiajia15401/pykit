@@ -40,7 +40,7 @@ class load():
                             l.append(n)
                     else:
                         break
-            return n
+            return l
         if last_name == None:
             return list_(name,value)
         else:
