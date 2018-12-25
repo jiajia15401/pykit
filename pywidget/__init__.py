@@ -5,4 +5,4 @@ from pywidget import error
 from pywidget import AI
 __all__ = ['error', 'save', 'load', 'decode','line']
 __author__ = 'john wan <jwan@ps163m.org>[www.jiajia15401.ml]'
-version = '1.4.5'
+version = '1.4.6'
