@@ -1,37 +1,37 @@
 # pywidget
 '''
-Pykit. save. save ()
+Pywidget. save. save ()
 '''
 
 This class can be used to save variables
 Example:
 
 '''
-Import pykit
+Import pywidget
 S = 's'
-Pykit. save. save ('d://'). str ('s', s)
+Pywidget. save. save ('d://'). str ('s', s)
 '''
 
 '''
-Pykit. load. load ()
+Pywidget. load. load ()
 '''
 
 This class can be used to load variables
 Example:
 
 '''
-Import pykit
-S = pykit. load. load ('d://'). str ('s')
+Import pywidget
+S = pywidget. load. load ('d://'). str ('s')
 '''
 
 '''
-Pykit. error. make_error. Make_error()
+Pywidget. error. make_error. Make_error()
 '''
 This class can be used to make errors
 Example:
 
 '''
-Import pykit
-S = pykit. error. make_error. Make_error(). Error ()
-Raise s ('h')
+Import pywidget
+S = pywidget. error. make_error. Make_error(). Error ()
+Raise s('h')
 '''
